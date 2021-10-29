@@ -94,3 +94,36 @@
     padding: 10px;
     
 }
+
+.work{
+    display: flex;
+    flex-direction: column;
+    padding: 20px;
+}
+
+.row{
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.box{
+    display: flex;
+    flex-direction: column;
+    width: 50%;
+    height: 50%;
+    border: 1px solid black
+}
+
+.box1{
+    display: flex;
+    flex-direction: column;
+    width: 70%;
+    height: 70%;
+    border: 1px solid black;
+
+}
+
+.article{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 1.3rem;
+}

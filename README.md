@@ -10,6 +10,12 @@ Built a Portfolio Webpage for an employer to see. It has all the neccesary infor
 6. When a specific section is clicked in a the navigation center then the UI scrolls to the corresponding section.
 
 ## Screenshots
+![Getting Started](./assets/images/ss1.png)
+![Getting Started](./assets/images/ss2.png)
+![Getting Started](./assets/images/ss3.png)
+![Getting Started](./assets/images/ss4.png)
+![Getting Started](./assets/images/ss5.png)
+
 ## Link to the deployed application
 You can view the deployed application [here](https://hakki1810.github.io/Hakki-hw2-portfolio/)
 ## Link to the Github repository
